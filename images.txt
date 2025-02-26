@@ -1,2 +1,2 @@
-mongo:7.0.17-jammy
+snowdreamtech/frpc:alpine3.21
 
