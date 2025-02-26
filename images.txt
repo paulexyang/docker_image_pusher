@@ -1,2 +1,2 @@
-mongodb:latest
+mongo:7.0.17-jammy
 
