@@ -1,2 +1,2 @@
-snowdreamtech/frpc:alpine3.21
+ollama/ollama：0.6.0
 
