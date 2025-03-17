@@ -1,2 +1,2 @@
-nvcr.io/nvidia/pytorch:25.02-py3
+vllm/vllm-openai:v0.7.3
 
