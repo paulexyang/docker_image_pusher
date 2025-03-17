@@ -1,2 +1,2 @@
-ollama/ollama：0.6.0
+nvcr.io/nvidia/pytorch:25.02-py3
 
